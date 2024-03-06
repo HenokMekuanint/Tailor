@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295617562802",
+    "project_id": "threadme-115b8",
+    "storage_bucket": "threadme-115b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295617562802:android:62e7de7e4d1d248b2261ab",
+        "android_client_info": {
+          "package_name": "com.protontechsolutions.threadme.mobile.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHruc-Tn5reouR2mxzQrVt9PYRDilhkdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
